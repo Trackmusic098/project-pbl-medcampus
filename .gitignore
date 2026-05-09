@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# OS
+.DS_Store
+
+# Dependencies (pilih yang sesuai)
+node_modules/
+venv/
+__pycache__/
+*.class
+*.o
+*.so
+
+# Config & Logs
+.env
+*.log
